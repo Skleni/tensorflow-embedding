@@ -13,7 +13,8 @@
           64,
           64
         ]
-      }
+      },
+      "bookmarksPath": "https://raw.githubusercontent.com/Skleni/tensorflow-embedding/main/bookmarks.json"
     }
   ]
 }
