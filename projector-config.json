@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "photos",
+      "tensorShape": [
+        117,
+        294
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Skleni/tensorflow-embedding/main/vectors.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/Skleni/tensorflow-embedding/blob/main/sprites.png?raw=true",
+        "singleImageDim": [
+          64,
+          64
+        ]
+      }
+    }
+  ]
+}
